@@ -1,0 +1,13 @@
+{
+  "urls": [
+    ["ble_library.py", "github:faith9918/cyca-info/ble_library.py"],
+    ["BlynkLib.py", "github:faith9918/cyca-info/BlynkLib.py"],
+    ["dht.py", "github:faith9918/cyca-info/dht.py"],
+    ["i2c_lcd.py", "github:faith9918/cyca-info/i2c_lcd.py"],
+    ["lcd_api.py", "github:faith9918/cyca-info/lcd_api.py"],
+    ["servo.py", "github:faith9918/cyca-info/servo.py"],
+    ["ssd1306.py", "github:faith9918/cyca-info/ssd1306.py"],
+    ["tcs34725.py", "github:faith9918/cyca-info/tcs34725.py"]
+  ],
+  "version": "1.0.5"
+}
